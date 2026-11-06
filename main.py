@@ -19,7 +19,7 @@ __________                                               .___   _________ .__   
 def header():
     os.system('cls||clear')
     print(f'{CYAN}{BANNER}{RESET}')
-    print(f'Developer: {GREEN}Sitimace{RESET}                                                 Version: {YELLOW}1.0{RESET}\n')
+    print(f'Developed by: {GREEN}Sitimace{RESET}                                                 Version: {YELLOW}1.0{RESET}\n')
 
 
 def menu():
